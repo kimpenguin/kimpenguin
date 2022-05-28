@@ -13,15 +13,21 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <th>GitHub Stats</th>
+      <th>Github Stats</th>
       <th>Top Languages</th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kimpenguin&theme=default&show_icons=true&hide=issues,contribs&count_private=true&hide_rank=true" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kimpenguin&theme=dark&show_icons=true&hide=issues,contribs&count_private=true&hide_rank=true">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimpenguin&theme=default&show_icons=true&hide=issues,contribs&count_private=true&hide_rank=true">
+        </picture>
       </td>
       <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpenguin&layout=compact&count_private=true" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpenguin&theme=dark&layout=compact&count_private=true">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpenguin&layout=compact&count_private=true">
+        </picture>
       </td>
     </tr>
   </table>
