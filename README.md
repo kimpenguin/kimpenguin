@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kim (she/her)</h1>
 
 <p align="center">
-  <img src="assets/penguin-code.gif" width="150px" class="img">
+  <img src="assets/penguin-code.gif" width="150" class="img">
 </p>
 
 <p align="center">
