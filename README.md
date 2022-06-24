@@ -15,6 +15,13 @@
 </p>
 
 <hr>
+<div>
+  <b>Experience</b>
+  <p>
+    <a href="CV.md">Check out my CV.</a>
+  </p>
+</div>
+<hr>
 <!-- Languages -->
 <p>
   <b>💻 Languages</b>
